@@ -1,5 +1,13 @@
 # ExploreIT
 
+<table style="width:50%;">
+  <tr>
+    <th><a href="https://github.com/TsarkFC"><b>Diogo Romão</b></a></th>
+    <th><a href="https://github.com/rocas777"><b>Miguel Pinto</b></a></th>
+    <th><a href="https://github.com/tiago-falves"><b>Tiago Alves</b></a></th>
+  </tr>
+</table>
+
 Neste trabalho, pretende-se implementar uma aplicação que, dado um conjunto
 de pontos de interesse, locais de confluência e trilhos, produza circuitos
 que possam ser percorridos pelos trabalhadores sendo que cada trilho tem um
